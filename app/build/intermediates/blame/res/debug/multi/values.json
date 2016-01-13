@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "/Users/jesse/AndroidStudioProjects/clock/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 57,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "/Users/jesse/AndroidStudioProjects/clock/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 55,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "/Users/jesse/AndroidStudioProjects/clock/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 52,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "/Users/jesse/AndroidStudioProjects/clock/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 52,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 42,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "/Users/jesse/AndroidStudioProjects/clock/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 52,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/Users/jesse/AndroidStudioProjects/clock/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 52,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "/Users/jesse/AndroidStudioProjects/clock/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1019
+                },
+                "from": {
+                    "file": "/Users/jesse/AndroidStudioProjects/clock/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

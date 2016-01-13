@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="radius" format="float" />
+         <attr name="smlRadius" format="float" />
+        <attr name="textSize" format="float" />
+        <attr name="strokeWidth" format="float" />
+        <attr name="textBold" format="boolean" />
+    </declare-styleable>
+</resources>

@@ -2,25 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/jesse/AndroidStudioProjects/clock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="cdf1b56815f99761c38af9d1282d20967fd4cce9">
-        <dex dex="/Users/jesse/AndroidStudioProjects/clock/app/build/intermediates/pre-dexed/debug/instant-run_be8560645b02660bb9799459b7ae580c66fe2410.jar" />
-    </item>
-    <item
         jar="/Users/jesse/AndroidStudioProjects/clock/app/build/intermediates/incremental-classes/debug/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d67c66cb085141322870c11d2adca88686761da9">
+        sha1="bced1a2cf941fe0076ef7f886fddba567e61ce4b">
         <dex dex="/Users/jesse/AndroidStudioProjects/clock/app/build/intermediates/pre-dexed/debug/classes_62bc38d4d680a80d7ae7ab432a1429ad6d15b8b8.jar" />
-    </item>
-    <item
-        jar="/Users/jesse/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/jesse/AndroidStudioProjects/clock/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_91775dba7e98e91f43808df5eca307aefaf84685.jar" />
     </item>
 
 </items>
